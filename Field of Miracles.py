@@ -1,3 +1,5 @@
+# Игра "Поле чудес". Количество попыток вводится пользователем
+
 import random
 
 f = open('WordsStockRus.txt', 'r', encoding="utf-8")
